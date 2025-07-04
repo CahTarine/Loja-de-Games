@@ -76,7 +76,7 @@ git clone https://github.com/CahTarine/Loja-de-Games.git
 ```
 2. Acesse o diretório:
 ```bash
-cd Projeto_Loja_De_Games
+cd Loja-de-Games
 ```
 4. Compile o projeto:
 ```bash
