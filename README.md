@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-17-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-brightgreen?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-3.8.6-orange?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17-purple?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-purple?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-3.8.6-purple?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
 <p align="center" >
